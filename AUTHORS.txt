@@ -1,0 +1,4 @@
+# This file talks about the two partners who created this repository and built this project.
+They are:
+1. Joshua Mensah <joshuamensah46@gmail.com>
+
